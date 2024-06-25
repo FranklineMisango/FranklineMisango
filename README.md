@@ -96,7 +96,7 @@ hobbies: ["Gaming", "Cinema", "Cycling", "Flying"]
 </p>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranklineMisango&layout=compact&theme=light&hide_border=false" />
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=FranklineMisango&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=light&hide_border=false&border_radius=2&hide=contribs" alt=" Frankline Misango github stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=FranklineMisango&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=light&hide_border=false&border_radius=2&hide=contribs" alt=" Frankline Misango github stats" />
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=FranklineMisango&" alt="Misango" /></p>
 
