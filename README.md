@@ -95,11 +95,8 @@ hobbies: ["Gaming", "Cinema", "Cycling", "Flying"]
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>   
 </p>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranklineMisango&layout=compact&theme=light&hide_border=false" />
-<a><i style="font-size: 20px" class="bx bx-tada-hover">
-                    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31ttmzqsihnt274armtmwpzstieu&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" align="middle"></img>
-                    </i>
-                  </a>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranklineMisango&layout=compact&theme=light&hide_border=false"/>
+<img  align = "right" src="https://spotify-github-profile.vercel.app/api/view uid=31ttmzqsihnt274armtmwpzstieu&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" align="middle"></img>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=FranklineMisango&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=light&hide_border=false&border_radius=2&hide=contribs" alt=" Frankline Misango github stats" />
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=FranklineMisango&" alt="Misango" /></p>
