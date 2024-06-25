@@ -5,6 +5,10 @@
 
 ![](https://komarev.com/ghpvc/?username=FranklineMisango)
 
+<a href="https://www.instagram.com/thepiyushmalhotra/">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
+</a>
+
 <a href="https://www.linkedin.com/in/misango" target="_blank"><img align="center"
 >      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
 >      alt="Misango" height="30" width="40" /></a> 
