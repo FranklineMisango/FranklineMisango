@@ -5,10 +5,7 @@
 
 ![](https://komarev.com/ghpvc/?username=FranklineMisango)
 
-> Machine Learning Engineer
-><h3 align="left">Connect with me:</h3>
-><p align="left">
-> <a href="https://www.linkedin.com/in/misango" target="_blank"><img align="center"
+<a href="https://www.linkedin.com/in/misango" target="_blank"><img align="center"
 >      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
 >      alt="Misango" height="30" width="40" /></a> 
 >    <a href="+230 5452 5327" target="_blank_"><img align="center"
@@ -20,6 +17,16 @@
 > <a href="https://twitter.com/Frank_Misango" target="_blank"><img align="center"
 >      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
 >      alt="Misango" height="30" width="40" /></a> 
+
+
+
+
+
+
+> Machine Learning Engineer
+><h3 align="left">Connect with me:</h3>
+><p align="left">
+> 
 > </p>
 > <p>
 > <h2> About Me:</h2>
