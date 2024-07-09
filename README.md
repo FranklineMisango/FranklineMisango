@@ -64,16 +64,15 @@ technical_background:
   [
     "Chief Technology Officer"
     "Lead Machine Learning Engineer",
-    "Intern - Data Governance Analyst",
-    "Intern - Machine Learning Research",
-    "Intern - Data Analytics",
+    "Summer Analyst - Data Governance Analyst",
+    "Research Assistant - AI Engineering",
+    "Research Assistant - Machine Learning Modelling",
   ]
   
 currently_learning: ["Docker, Kubernetes, and JAX"]
-2024 Goals: ["Create 25+ MLOPs projects and learn Cloud Ops."]
+2024 Goals: ["Improve on 25+ MLOPs projects, learn Cloud Ops and master some Data Structures and Algorithms."]
 hobbies: ["Gaming", "Cinema", "Cycling", "Flying"]
 ```
-  
 ---  
   
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
@@ -84,6 +83,8 @@ hobbies: ["Gaming", "Cinema", "Cycling", "Flying"]
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" alt="debian" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" alt="jenkins" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg" alt="keras" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg"  alt="scikit-learn" width="45" height="45"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gcc/gcc-original.svg"  alt="gcc" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" alt="pytorch" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45"/>
@@ -116,6 +117,7 @@ hobbies: ["Gaming", "Cinema", "Cycling", "Flying"]
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/stackoverflow/stackoverflow-original-wordmark.svg" />
 </p>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranklineMisango&layout=compact&theme=light&hide_border=false"/>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=FranklineMisango&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=light&hide_border=false&border_radius=2&hide=contribs" alt=" Frankline Misango github stats" />
