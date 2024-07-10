@@ -129,7 +129,6 @@ hobbies: ["Gaming", "Cinema", "Cycling", "Flying"]
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=FranklineMisango&theme=algolia">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=FranklineMisango&theme=algolia">
 </div>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=FranklineMisango&" alt="Misango" /></p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
