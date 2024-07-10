@@ -119,9 +119,16 @@ hobbies: ["Gaming", "Cinema", "Cycling", "Flying"]
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/stackoverflow/stackoverflow-original-wordmark.svg"  alt="keras" width="45" height="45"/>
 </p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranklineMisango&layout=compact&theme=light&hide_border=false"/>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=FranklineMisango&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=light&hide_border=false&border_radius=2&hide=contribs" alt=" Frankline Misango github stats" />
 
+<div align=center> 
+  <h2>Contribution and Stats</h2>
+  <img height=150px src="https://streak-stats.demolab.com?user=FranklineMisango&theme=algolia"></br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FranklineMisango&theme=algolia">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FranklineMisango&theme=algolia">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FranklineMisango&theme=algolia">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=FranklineMisango&theme=algolia">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=FranklineMisango&theme=algolia">
+</div>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=FranklineMisango&" alt="Misango" /></p>
 
 <p align="center">
