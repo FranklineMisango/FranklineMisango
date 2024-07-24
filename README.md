@@ -57,7 +57,7 @@ fields_of_interests:
     "Data Science",
     "Generative AI",
     "Quantitative Finance",
-    "MLOps",
+    "Cloud",
     "Algorithmic Trading",
   ]
 technical_background:
