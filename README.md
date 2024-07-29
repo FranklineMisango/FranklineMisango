@@ -48,7 +48,7 @@ education:
   [
     "Bachelor's in Data Science and Engineering",
   ]
-company: Manulife / John Hancock
+company: Check LinkedIn
 
 fields_of_interests:
   [
