@@ -2,8 +2,11 @@
   <img src="https://capsule-render.vercel.app/api?text=Howdyy!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
 
-![Snake animation](https://github.com/FranklineMisango/FranklineMisango/blob/output/github-contribution-grid-snake.svg)
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="Snake animation" src="github-snake.svg" />
+</picture>
 
 <h1 align="center">
   Vibe with me a bit!🎧
