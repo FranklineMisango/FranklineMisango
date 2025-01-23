@@ -3,6 +3,7 @@
 </p>
 
  ![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
+ ![Profile views](https://gpvc.arturio.dev/FranklineMisango)
 
 
 <h1 align="center">
