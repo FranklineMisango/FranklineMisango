@@ -119,15 +119,15 @@ hobbies: ["Gaming", "Cinema", "Cycling", "Flying"]
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/stackoverflow/stackoverflow-original-wordmark.svg"  alt="keras" width="45" height="45"/>
 </p>
 
-<h2> Contribution streak </h2>
+  
+
+<div align=center> 
+  <h2>Contribution and Stats</h2>
   <div>
     <a href="https://git.io/streak-stats">
       <img src="https://github-readme-streak-stats-seven-azure.vercel.app?user=FranklineMisango&theme=tokyonight-duo&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" style="margin-top: 20px;"/>
     </a>
   </div>
-
-<div align=center> 
-  <h2>Contribution and Stats</h2>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FranklineMisango&theme=algolia">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FranklineMisango&theme=algolia">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=FranklineMisango&theme=algolia">
