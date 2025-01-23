@@ -119,6 +119,9 @@ hobbies: ["Gaming", "Cinema", "Cycling", "Flying"]
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/stackoverflow/stackoverflow-original-wordmark.svg"  alt="keras" width="45" height="45"/>
 </p>
 
+<h2> Contribution streak </h2>
+[![GitHub Streak](https://streak-stats.demolab.com?user=FranklineMisango&theme=github-dark)](https://git.io/streak-stats)
+
 <div align=center> 
   <h2>Contribution and Stats</h2>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FranklineMisango&theme=algolia">
