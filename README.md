@@ -121,7 +121,7 @@ hobbies: ["Gaming", "Cinema", "Cycling", "Flying"]
 
 <div align=center> 
   <h2>Contribution and Stats</h2>
-  <img height=150px src="https://streak-stats.demolab.com?user=FranklineMisango&theme=algolia"></br>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=FranklineMisango&theme=algolia" alt="GitHub Streak" /></a>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FranklineMisango&theme=algolia">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FranklineMisango&theme=algolia">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FranklineMisango&theme=algolia">
