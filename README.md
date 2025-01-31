@@ -51,13 +51,13 @@ company: Check LinkedIn
 
 fields_of_interests:
   [
-    "Machine Learning",
-    "Android Development",
-    "Data Science",
-    "Generative AI",
-    "Quantitative Finance",
-    "Cloud",
     "Algorithmic Trading",
+    "Quantitative Finance",
+    "Machine Learning",
+    "Data Science",
+    "Generative AI"
+    "Cloud Computing",
+  
   ]
 technical_background:
   [
