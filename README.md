@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?text=Howdyy!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
 
-![Snake animation](https://github.com/FranklineMisango/FranklineMisango/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/FranklineMisango/FranklineMisango/blob/output/github-contribution-grid-snake-dark.svg)
 
 <h1 align="center">
   Vibe with me a bit!🎧
