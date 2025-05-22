@@ -118,8 +118,12 @@ hobbies: ["Gaming", "Cinema", "Cycling", "Flying"]
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/stackoverflow/stackoverflow-original-wordmark.svg"  alt="keras" width="45" height="45"/>
 </p>
 
-  
+<p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
+<img src="https://github-profile-trophy.vercel.app/?username=abrahamchandafa&theme=juicyfresh&no-bg=true" />
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br/>
+
+ 
 <div align=center> 
   <h2>Contribution and Stats</h2>
   <div>
