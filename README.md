@@ -7,7 +7,7 @@
 <h1 align="center">
   Vibe with me a bit!🎧
   <a><i style="font-size: 20px" class="bx bx-tada-hover">
-                    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ttmzqsihnt274armtmwpzstieu&cover_image=true&theme=novatorem&show_offline=true&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)" align="middle"></img>
+                    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=3K66h5w9hRxDpw6s6kLMQk&cover_image=true&theme=novatorem&show_offline=true&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)" align="middle"></img>
                     </i>
                   </a>
 </h1>
