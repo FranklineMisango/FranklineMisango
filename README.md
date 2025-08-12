@@ -46,7 +46,7 @@ education:
   [
     "Bachelor's in Data Science and Engineering",
   ]
-company: Check LinkedIn
+company: Arithmax Research
 
 fields_of_interests:
   [
@@ -68,7 +68,7 @@ technical_background:
   ]
   
 currently_learning: ["Docker, Kubernetes, and JAX"]
-2024 Goals: ["Improve on 25+ MLOPs projects, learn Cloud Ops and master some Data Structures and Algorithms."]
+2025 Goals: ["Improve on 25+ MLOPs projects, learn Cloud Ops and master more Data Structures and Algorithms."]
 hobbies: ["Gaming", "Cinema", "Cycling", "Flying"]
 ```
 ---  
