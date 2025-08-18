@@ -57,10 +57,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/stackoverflow/stackoverflow-original-wordmark.svg" alt="stackoverflow" width="45" height="45"/>
 </p>
 
-<!-- Rest of your existing content remains unchanged -->
-<p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;My Achievements</p><br>
-<img src="https://github-profile-trophy.vercel.app/?username=FranklineMisango&theme=juicyfresh&no-bg=true" />
-<!-- ... remaining sections ... -->
 
 
 <p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;My Achievements</p><br>
