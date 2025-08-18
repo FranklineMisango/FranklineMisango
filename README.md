@@ -57,20 +57,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/stackoverflow/stackoverflow-original-wordmark.svg" alt="stackoverflow" width="45" height="45"/>
 </p>
 
-
-
-<p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;My Achievements</p><br>
-<img src="https://github-profile-trophy.vercel.app/?username=FranklineMisango&theme=juicyfresh&no-bg=true" />
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br/>
-
- 
-<div align=center> 
   <h2>Contribution and Stats</h2>
-  <div>
-    <a href="https://git.io/streak-stats">
-      <img src="https://github-readme-streak-stats-seven-azure.vercel.app?user=FranklineMisango&theme=algolia&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D&mode=daily" alt="GitHub Streak" style="margin-top: 20px;"/>
-    </a>
   </div>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FranklineMisango&theme=algolia">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FranklineMisango&theme=algolia">
