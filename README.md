@@ -38,39 +38,6 @@
 
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
 
-```yaml
-name: Frankline Misango Oyolo
-located_in: Hong Kong, Hong Kong SAR
-current_job: Machine Learning Engineer
-education:
-  [
-    "Bachelor's in Data Science and Engineering",
-  ]
-company: Arithmax Research
-
-fields_of_interests:
-  [
-    "Algorithmic Trading",
-    "Quantitative Finance",
-    "Machine Learning",
-    "Data Science",
-    "Generative AI"
-    "Cloud Computing",
-  
-  ]
-technical_background:
-  [
-    "Chief Technology Officer"
-    "Lead Machine Learning Engineer",
-    "Summer Analyst - Data Governance Analyst",
-    "Research Assistant - AI Engineering",
-    "Research Assistant - Machine Learning Modelling",
-  ]
-  
-currently_learning: ["Docker, Kubernetes, and JAX"]
-2025 Goals: ["Improve on 25+ MLOPs projects, learn Cloud Ops and master more Data Structures and Algorithms."]
-hobbies: ["Gaming", "Cinema", "Cycling", "Flying"]
-```
 ---  
   
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
