@@ -1,4 +1,4 @@
-<h2> 🚀 &nbsp;Hello, I am Frank. These are the tools I use and the languages I have worked with </h2>
+<h2> &nbsp; Hello, I am Frank. These are the tools I use and the languages I have worked with </h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" alt="android-studio" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" alt="bash" width="45" height="45"/>
