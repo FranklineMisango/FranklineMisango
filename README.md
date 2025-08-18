@@ -36,8 +36,6 @@
 
 ---
 
-<h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
-
 ---  
   
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
