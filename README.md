@@ -58,9 +58,7 @@
 </p>
 
  <h2>Contribution and Stats</h2>
-</div>
-
-<!-- First Row: Language Stats -->
+ <!-- First Row: Language Stats -->
 <div style="display: flex; gap: 15px; margin-bottom: 15px;">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FranklineMisango&theme=algolia">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FranklineMisango&theme=algolia">
