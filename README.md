@@ -1,44 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Howdyy!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
-
-![Snake animation](https://github.com/FranklineMisango/FranklineMisango/blob/output/github-contribution-grid-snake-dark.svg)
-
-<h1 align="center">
-  Vibe with me a bit!🎧
-  <a><i style="font-size: 20px" class="bx bx-tada-hover">
-                    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=qiqfq1z9egklhk61szcic2yf5&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=qiqfq1z9egklhk61szcic2yf5&redirect=true))" align="middle"></img>
-                    </i>
-                  </a>
-</h1>
-
-<h1 align="center">
-  Let's Connect and have a Chat!💬
-</h1>
-
-<p align="center">
-<a href="https://misango.me/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png"/>
-</a>
-<a href="https://www.linkedin.com/in/misango/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
-</a>
-<a href="https://franklinemisango.medium.com/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166973962-d05d145a-b6a0-4643-bd3d-5ac845679367.png"/>
-</a>
-<a href="https://twitter.com/Frank_Misango">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974271-91dfa250-d70b-4cb9-8707-f1bda1b708c3.png"/>
-</a>
-<a href="https://www.instagram.com/_misango_/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
-</a>
-</p>
-
----
-
----  
-  
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<h2> 🚀 &nbsp;Hello, I am Frank. These are the tools I use and the languages I have worked with </h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" alt="android-studio" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" alt="bash" width="45" height="45"/>
