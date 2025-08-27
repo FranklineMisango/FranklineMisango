@@ -4,10 +4,9 @@
 <h3>Languages</h3>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"  width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-line.svg" />          
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="cLang" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt="bash" width="45" height="45" />
 </p>
 
 <!-- Tools & Technologies -->
@@ -52,15 +51,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/stackoverflow/stackoverflow-original-wordmark.svg" alt="stackoverflow" width="45" height="45"/>
 </p>
 
- <h2>Contribution and Stats</h2>
- <!-- First Row: Language Stats -->
-<div style="display: flex; gap: 15px; margin-bottom: 15px;">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FranklineMisango&theme=algolia">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FranklineMisango&theme=algolia">
-</div>
-
-<!-- Second Row: General Stats -->
-<div style="display: flex; gap: 15px; margin-bottom: 15px;">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=FranklineMisango&theme=algolia">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=FranklineMisango&theme=algolia">
-</div>
