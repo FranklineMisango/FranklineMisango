@@ -1,5 +1,4 @@
-<h2> &nbsp; Hello, I am Frank. These are the tools I use and the languages I have worked with </h2>
-
+<h2> &nbsp; Hello, I am Frankline. Explore my expertise below 
 <!-- Programming Languages -->
 <h3>Languages</h3>
 <p align="left">
