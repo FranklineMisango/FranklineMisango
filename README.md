@@ -9,7 +9,7 @@
 </p>
 
 <!-- Tools & Technologies -->
-<h3>TSome tools I use</h3>
+<h3>Some tools I use</h3>
 <p align="left">
   <!-- Frameworks & Libraries -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45" />
