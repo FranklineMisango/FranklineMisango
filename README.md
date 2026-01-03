@@ -1,4 +1,4 @@
-<h2> &nbsp; Hello, I am Frankline. Explore my expertise below 
+<h2> &nbsp; Hello, I am Frankline. I build and open source cool Trading Infrastructure, research, and strategies for Arithmx Research. Check it out 
 <!-- Programming Languages -->
 <h3>Languages</h3>
 <p align="left">
