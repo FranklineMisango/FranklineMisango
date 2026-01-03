@@ -1,6 +1,6 @@
-<h2> &nbsp; Hello, I am Frankline. I build and open source cool Trading Infrastructure, research, and strategies for Arithmx Research. Check it out 
+<h2> &nbsp;Hello, I am Frankline. I build cool Trading Infrastructure, research, and strategies for Arithmax Research. Check my work out 
 <!-- Programming Languages -->
-<h3>Languages</h3>
+<h3>What I code with </h3>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"  width="45" height="45" />
   <img src="https://skillicons.dev/icons?i=rust&theme=dark" width="45" height="45">
@@ -9,7 +9,7 @@
 </p>
 
 <!-- Tools & Technologies -->
-<h3>Tools</h3>
+<h3>TSome tools I use</h3>
 <p align="left">
   <!-- Frameworks & Libraries -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45" />
