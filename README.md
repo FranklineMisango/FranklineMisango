@@ -1,4 +1,4 @@
-<h2> &nbsp;Hello, I am Frankline. I build cool Trading Infrastructure, research, and strategies for Arithmax Research. Check my work out 
+<h2> &nbsp; Hello, I am Frankline. I build advanced trading infrastructure, high-quality quantitative research, and profitable strategies for Arithmax Research.
 <!-- Programming Languages -->
 <h3>What I code with </h3>
 <p align="left">
