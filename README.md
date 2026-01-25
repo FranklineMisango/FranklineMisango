@@ -1,5 +1,5 @@
-<h2> &nbsp; Hello, I am Frankline </h2>
-<h4></h4>I build advanced trading infrastructure, high-quality quantitative research, and profitable strategies.</h4>
+<h2> &nbsp; Hello</h2>
+<h4></h4>I am Frankline. I build reliable infrastructure for Trading department of financial firms, produce high-quality quantitative research, and implement profitable trading strategies.</h4>
   
 <!-- Programming Languages -->
 <h3>What I code with </h3>
