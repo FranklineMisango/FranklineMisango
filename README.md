@@ -1,5 +1,7 @@
 <h2> &nbsp; Hello </h2>
 <h4></h4>I am Frankline. I build reliable infrastructure for Trading department of financial firms, produce high-quality quantitative research, and implement profitable trading strategies.</h4>
+<h4></h4> Try out FeenQR : https://mgunkrmvmp.us-east-1.awsapprunner.com/</h4
+
   
 <!-- Programming Languages -->
 <h3>What I code with </h3>
