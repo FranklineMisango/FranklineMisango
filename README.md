@@ -1,17 +1,11 @@
-<h2> &nbsp; Hello </h2>
-<h4></h4>I am Frankline. I build reliable infrastructure for Trading department of financial firms, produce high-quality quantitative research, and implement profitable trading strategies.</h4>
+<h2> &nbsp; Frankline Misango Oyolo </h2>
+<h4></h4>Howdy ! I build reliable infrastructure for the Trading department of financial firms, and produce high-quality quantitative research.</h4>
 
 ## My Open Source Applications
 
 <a href="https://mgunkrmvmp.us-east-1.awsapprunner.com/" target="_blank">
   <img src="feenqr-logo.png" alt="FeenQR" style="width:200px;height:auto;">
 </a>
-
-# My stats
-
-![FranklineMisango's Top Repos](https://git-hub-stats-card-generator.vercel.app/api/svg?username=FranklineMisango&type=top-repos&theme=dark)
-
-
   
 <!-- Programming Languages -->
 <h3>What I code with </h3>
