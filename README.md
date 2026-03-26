@@ -9,17 +9,7 @@
 
 # My stats
 
-<h3 align="left">My GitHub Stats</h3>
-
-<p align="left">
-  <!-- Displays stars, commits, PRs, issues, and contributions -->
-  <img src="https://github-readme-stats.vercel.app/api?username=FranklineMisango&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</p>
-
-<p align="left">
-  <!-- Displays top used languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranklineMisango&theme=radical&layout=compact" alt="Top Languages" />
-</p>
+![FranklineMisango's Top Repos](https://git-hub-stats-card-generator.vercel.app/api/svg?username=FranklineMisango&type=top-repos&theme=dark)
 
 
   
