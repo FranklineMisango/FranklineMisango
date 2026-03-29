@@ -8,7 +8,7 @@
 </a>
 
 ## Current Vibe
-[<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=qiqfq1z9egklhk61szcic2yf5&cover_image=true&theme=apple&show_offline=false&background_color=121212&interchange=false&profanity=false&mode=dark" width="150" />](https://github.com/kittinan/spotify-github-profile)
+[<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=qiqfq1z9egklhk61szcic2yf5&cover_image=true&theme=apple&show_offline=false&background_color=121212&interchange=false&profanity=false&mode=dark" width="200" />](https://github.com/kittinan/spotify-github-profile)
 
 ## Some Stats
 ![LeetCode Stats](https://leetcard.jacoblin.cool/FranklineMisango?theme=dark&font=Zen%20Loop)
