@@ -11,7 +11,9 @@
 [<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=qiqfq1z9egklhk61szcic2yf5&cover_image=true&theme=apple&show_offline=false&background_color=121212&interchange=false&profanity=false&mode=dark" width="300" />](https://github.com/kittinan/spotify-github-profile)
 
 
-[<img src="https://kaggle-card.vercel.app/api?username=franklinemisango" width="400"/>](https://www.kaggle.com/YOUR_USERNAME)
+[![Competitions](https://img.shields.io/badge/Kaggle-Competitions-orange?logo=kaggle)](https://www.kaggle.com/franklinemisango/competitions)
+[![Datasets](https://img.shields.io/badge/Kaggle-Datasets-green?logo=kaggle)](https://www.kaggle.com/franklinemisango/datasets)
+[![Notebooks](https://img.shields.io/badge/Kaggle-Notebooks-purple?logo=kaggle)](https://www.kaggle.com/franklinemisango/code)
 
 
 ## Some Stats
