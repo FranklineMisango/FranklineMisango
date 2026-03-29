@@ -6,6 +6,14 @@
 <a href="https://mgunkrmvmp.us-east-1.awsapprunner.com/" target="_blank">
   <img src="feenqr-logo.png" alt="FeenQR" style="width:200px;height:auto;">
 </a>
+
+## Current Vibe
+
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=qiqfq1z9egklhk61szcic2yf5&cover_image=true&theme=apple&show_offline=false&background_color=121212&interchange=false&profanity=false&mode=dark">
+  </a>
+</p>
   
 <!-- Programming Languages -->
 <h3>What I code with </h3>
