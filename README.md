@@ -1,7 +1,7 @@
 <h2> &nbsp; Frankline Misango Oyolo </h2>
 <h4></h4>Howdy ! I build reliable infrastructure for the Trading department of financial firms, and produce high-quality quantitative research.</h4>
 
-## My Open Source Applications
+## Deployed Open Source 
 
 <a href="https://mgunkrmvmp.us-east-1.awsapprunner.com/" target="_blank">
   <img src="feenqr-logo.png" alt="FeenQR" style="width:200px;height:auto;">
