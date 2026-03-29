@@ -8,14 +8,16 @@
   <img src="feenqr-logo.png" alt="FeenQR" style="width:200px;height:auto;">
 </a>
 
+## Public Profiles
+![LeetCode Stats](https://leetcard.jacoblin.cool/FranklineMisango?theme=dark&font=Zen%20Loop)
+
+[![Competitions](https://img.shields.io/badge/Kaggle-Competitions-orange?logo=kaggle)](https://www.kaggle.com/franklinemisango/competitions)
+[![Datasets](https://img.shields.io/badge/Kaggle-Datasets-green?logo=kaggle)](https://www.kaggle.com/franklinemisango/datasets)
+[![Notebooks](https://img.shields.io/badge/Kaggle-Notebooks-purple?logo=kaggle)](https://www.kaggle.com/franklinemisango/code) 
 ## Current Vibe
 [<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=qiqfq1z9egklhk61szcic2yf5&cover_image=true&theme=apple&show_offline=false&background_color=121212&interchange=false&profanity=false&mode=dark" width="200" />](https://github.com/kittinan/spotify-github-profile)
 
-## Some Stats
-![LeetCode Stats](https://leetcard.jacoblin.cool/FranklineMisango?theme=dark&font=Zen%20Loop)
-[![Competitions](https://img.shields.io/badge/Kaggle-Competitions-orange?logo=kaggle)](https://www.kaggle.com/franklinemisango/competitions)
-[![Datasets](https://img.shields.io/badge/Kaggle-Datasets-green?logo=kaggle)](https://www.kaggle.com/franklinemisango/datasets)
-[![Notebooks](https://img.shields.io/badge/Kaggle-Notebooks-purple?logo=kaggle)](https://www.kaggle.com/franklinemisango/code)
+
 
 <!-- Programming Languages -->
 <h3>What I code with </h3>
