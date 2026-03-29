@@ -13,6 +13,7 @@
 ## Some Stats
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/FranklineMisango?theme=dark&font=Zen%20Loop)
+[![Kaggle Stats](https://github-readme-stats.vercel.app/api/kaggle?username=franklinemisango)](https://www.kaggle.com/franklinemisango)
 
 <!-- Programming Languages -->
 <h3>What I code with </h3>
