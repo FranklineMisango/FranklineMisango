@@ -18,7 +18,6 @@
 [<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=qiqfq1z9egklhk61szcic2yf5&cover_image=true&theme=apple&show_offline=false&background_color=121212&interchange=false&profanity=false&mode=dark" width="200" />](https://github.com/kittinan/spotify-github-profile)
 
 
-
 <!-- Programming Languages -->
 <h3>What I code with </h3>
 <p align="left">
@@ -30,7 +29,7 @@
 
 <!-- Tools & Technologies -->
 <h3>Some tools I use</h3>
-<p align="left">
+<div style="display:flex; flex-wrap:wrap; gap:12px; align-items:center;">
   <!-- Frameworks & Libraries -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" alt="django" width="45" height="45" />
@@ -68,4 +67,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" alt="latex" width="45" height="45" /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original.svg" alt="kaggle" width="45" height="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/stackoverflow/stackoverflow-original-wordmark.svg" alt="stackoverflow" width="45" height="45"/>
-</p>
+</div>
+
