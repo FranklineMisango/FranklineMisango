@@ -20,7 +20,7 @@
 
 <!-- Programming Languages -->
 <h3>What I code with</h3>
-<div style="display:flex; flex-wrap:wrap; gap:12px; align-items:center;">
+<div style="display:grid; grid-template-columns: repeat(auto-fill, 60px); gap:12px; align-items:center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="45" height="45" />
   <img src="https://skillicons.dev/icons?i=rust&theme=dark" width="45" height="45" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45"/>
@@ -29,7 +29,7 @@
 
 <!-- Tools & Technologies -->
 <h3>Some tools I use</h3>
-<div style="display:flex; flex-wrap:wrap; gap:12px; align-items:center;">
+<div style="display:grid; grid-template-columns: repeat(auto-fill, 60px); gap:12px; align-items:center;">
   <!-- Frameworks & Libraries -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" alt="django" width="45" height="45" />
