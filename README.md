@@ -16,12 +16,6 @@
 [![Notebooks](https://img.shields.io/badge/Kaggle-Notebooks-purple?logo=kaggle)](https://www.kaggle.com/franklinemisango/code) 
 ## Current Vibe
 [<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=qiqfq1z9egklhk61szcic2yf5&cover_image=true&theme=apple&show_offline=false&background_color=121212&interchange=false&profanity=false&mode=dark" width="200" />](https://github.com/kittinan/spotify-github-profile)
-GitHub is stripping/ignoring the CSS you’re relying on (`display: grid`, `grid-template-columns`, `gap`) inside your profile `README.md`, so those `<div style="display:grid...">` blocks **don’t become a grid**. When that happens, the `<div>` falls back to normal block/inline flow and your `<img>` tags end up looking “vertically aligned” (not laid out in a grid).
-
-This is a GitHub rendering limitation/sanitization issue, not a mistake in your grid syntax.
-
-## Fix (most reliable on GitHub): use a `<table>`
-Tables render consistently on GitHub and will always align into rows/columns.
 
 <!-- Programming Languages -->
 <h3>What I code with</h3>
