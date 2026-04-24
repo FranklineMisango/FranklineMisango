@@ -20,7 +20,7 @@
 
 <!-- Programming Languages -->
 <h3>What I code with</h3>
-<div style="display:grid; grid-template-columns: repeat(auto-fill, 60px); gap:12px; align-items:center;">
+<div style="display:grid; grid-template-columns: repeat(auto-fit, minmax(45px, 1fr)); gap:12px; align-items:center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="45" height="45" />
   <img src="https://skillicons.dev/icons?i=rust&theme=dark" width="45" height="45" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45"/>
