@@ -35,21 +35,21 @@
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://leetcard.jacoblin.cool/FranklineMisango?theme=dark&font=Zen%20Loop">
         <source media="(prefers-color-scheme: light)" srcset="https://leetcard.jacoblin.cool/FranklineMisango?theme=light&font=Zen%20Loop">
-        <img alt="LeetCode Stats" src="https://leetcard.jacoblin.cool/FranklineMisango?theme=dark&font=Zen%20Loop" height="200" style="object-fit: contain; width: 100%;">
+        <img alt="LeetCode Stats" src="https://leetcard.jacoblin.cool/FranklineMisango?theme=dark&font=Zen%20Loop" height="200" style="object-fit: contain; max-width: 100%;">
       </picture>
     </td>
     <td align="center" width="33%">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github-stackoverflow-readme.vercel.app/?userId=17990967&theme=dark">
         <source media="(prefers-color-scheme: light)" srcset="https://github-stackoverflow-readme.vercel.app/?userId=17990967&theme=light">
-        <img alt="StackOverflow Stats" src="https://github-stackoverflow-readme.vercel.app/?userId=17990967" height="200" style="object-fit: contain; width: 100%;">
+        <img alt="StackOverflow Stats" src="https://github-stackoverflow-readme.vercel.app/?userId=17990967" height="200" style="object-fit: contain; max-width: 100%;">
       </picture>
     </td>
     <td align="center" width="33%">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://hackerrank-stats-card.netlify.app/api/hackerrank-card?username=franklinemisang1&theme=dark">
         <source media="(prefers-color-scheme: light)" srcset="https://hackerrank-stats-card.netlify.app/api/hackerrank-card?username=franklinemisang1&theme=light">
-        <img alt="HackerRank Stats" src="https://hackerrank-stats-card.netlify.app/api/hackerrank-card?username=franklinemisang1" height="200" style="object-fit: contain; width: 100%;">
+        <img alt="HackerRank Stats" src="https://hackerrank-stats-card.netlify.app/api/hackerrank-card?username=franklinemisang1" height="200" style="object-fit: contain; max-width: 100%;">
       </picture>
     </td>
   </tr>
