@@ -43,7 +43,7 @@
 
 ## 𝗦𝘁𝗮𝘁𝘀
 
-![snake](https://raw.githubusercontent.com/FranklineMisango/FranklineMisango/output/snake.svg)
+![snake](https://raw.githubusercontent.com/FranklineMisango/output/snake.svg)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=FranklineMisango&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=FranklineMisango&theme=github_dark&utcOffset=8)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FranklineMisango&theme=github_dark)
