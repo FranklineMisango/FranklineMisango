@@ -2,6 +2,50 @@
   <img src="quant_header.png" alt="Description of image" width="500">
 </p>
 
+<p align="center">
+  <a href="https://leetcode.com/u/FranklineMisango/" target="_blank">
+    <img src="https://cdn.simpleicons.org/leetcode" alt="LeetCode" width="45" height="45" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://stackoverflow.com/users/17990967" target="_blank">
+    <img src="https://cdn.simpleicons.org/stackoverflow" alt="StackOverflow" width="45" height="45" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.hackerrank.com/profile/franklinemisang1" target="_blank">
+    <img src="https://cdn.simpleicons.org/hackerrank" alt="HackerRank" width="45" height="45" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.kaggle.com/YOUR_KAGGLE_USERNAME" target="_blank">
+    <img src="https://cdn.simpleicons.org/kaggle" alt="Kaggle" width="45" height="45" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://misango.me" target="_blank">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/readdotcv/white">
+      <img src="https://cdn.simpleicons.org/readdotcv" alt="CV" width="45" height="45" />
+    </picture>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://discord.gg/atlien_ke" target="_blank">
+    <img src="https://cdn.simpleicons.org/discord" alt="Discord" width="45" height="45" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://medium.com/@franklinemisango" target="_blank">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/medium/white">
+      <img src="https://cdn.simpleicons.org/medium" alt="Medium" width="45" height="45" />
+    </picture>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/_misango_" target="_blank">
+    <img src="https://cdn.simpleicons.org/instagram" alt="Instagram" width="45" height="45" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.twitch.tv/franklinemisango" target="_blank">
+    <img src="https://cdn.simpleicons.org/twitch" alt="Twitch" width="45" height="45" />
+  </a>
+</p>
+
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸
 <p align="center">
@@ -27,38 +71,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="45" height="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" alt="latex" width="45" height="45" />
 </p>
-
-## 𝗣𝘂𝗯𝗹𝗶𝗰 𝗣𝗿𝗼𝗳𝗶𝗹𝗲
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://leetcard.jacoblin.cool/FranklineMisango?theme=dark&font=Zen%20Loop">
-        <source media="(prefers-color-scheme: light)" srcset="https://leetcard.jacoblin.cool/FranklineMisango?theme=light&font=Zen%20Loop">
-        <img alt="LeetCode Stats" src="https://leetcard.jacoblin.cool/FranklineMisango?theme=dark&font=Zen%20Loop" height="200" style="object-fit: contain; max-width: 100%;">
-      </picture>
-    </td>
-    <td align="center" width="33%">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-stackoverflow-readme.vercel.app/?userId=17990967&theme=dark">
-        <source media="(prefers-color-scheme: light)" srcset="https://github-stackoverflow-readme.vercel.app/?userId=17990967&theme=light">
-        <img alt="StackOverflow Stats" src="https://github-stackoverflow-readme.vercel.app/?userId=17990967" height="200" style="object-fit: contain; max-width: 100%;">
-      </picture>
-    </td>
-    <td align="center" width="33%">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://hackerrank-stats-card.netlify.app/api/hackerrank-card?username=franklinemisang1&theme=dark">
-        <source media="(prefers-color-scheme: light)" srcset="https://hackerrank-stats-card.netlify.app/api/hackerrank-card?username=franklinemisang1&theme=light">
-        <img alt="HackerRank Stats" src="https://hackerrank-stats-card.netlify.app/api/hackerrank-card?username=franklinemisang1" height="200" style="object-fit: contain; max-width: 100%;">
-      </picture>
-    </td>
-  </tr>
-</table>
-
-[![Competitions](https://img.shields.io/badge/Kaggle-Competitions-orange?logo=kaggle)](https://www.kaggle.com/franklinemisango/competitions)
-[![Datasets](https://img.shields.io/badge/Kaggle-Datasets-green?logo=kaggle)](https://www.kaggle.com/franklinemisango/datasets)
-[![Notebooks](https://img.shields.io/badge/Kaggle-Notebooks-purple?logo=kaggle)](https://www.kaggle.com/franklinemisango/code)
-
 
 
 ## 𝗢𝗽𝗲𝗻 𝘀𝗼𝘂𝗿𝗰𝗲
