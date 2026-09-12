@@ -2,8 +2,6 @@
   <img src="quant_header.png" alt="Description of image" width="500">
 </p>
 
-## 𝗣𝘂𝗯𝗹𝗶𝗰 𝗣𝗿𝗼𝗳𝗶𝗹𝗲
-
 ## 𝗠𝘆 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="45" height="45" />
@@ -29,6 +27,39 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" alt="latex" width="45" height="45" />
 </p>
 
+## 𝗣𝘂𝗯𝗹𝗶𝗰 𝗣𝗿𝗼𝗳𝗶𝗹𝗲
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://leetcard.jacoblin.cool/FranklineMisango?theme=dark&font=Zen%20Loop">
+        <source media="(prefers-color-scheme: light)" srcset="https://leetcard.jacoblin.cool/FranklineMisango?theme=light&font=Zen%20Loop">
+        <img alt="LeetCode Stats" src="https://leetcard.jacoblin.cool/FranklineMisango?theme=dark&font=Zen%20Loop" height="200" style="object-fit: contain; width: 100%;">
+      </picture>
+    </td>
+    <td align="center" width="33%">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-stackoverflow-readme.vercel.app/?userId=17990967&theme=dark">
+        <source media="(prefers-color-scheme: light)" srcset="https://github-stackoverflow-readme.vercel.app/?userId=17990967&theme=light">
+        <img alt="StackOverflow Stats" src="https://github-stackoverflow-readme.vercel.app/?userId=17990967" height="200" style="object-fit: contain; width: 100%;">
+      </picture>
+    </td>
+    <td align="center" width="33%">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://hackerrank-stats-card.netlify.app/api/hackerrank-card?username=franklinemisang1&theme=dark">
+        <source media="(prefers-color-scheme: light)" srcset="https://hackerrank-stats-card.netlify.app/api/hackerrank-card?username=franklinemisang1&theme=light">
+        <img alt="HackerRank Stats" src="https://hackerrank-stats-card.netlify.app/api/hackerrank-card?username=franklinemisang1" height="200" style="object-fit: contain; width: 100%;">
+      </picture>
+    </td>
+  </tr>
+</table>
+
+[![Competitions](https://img.shields.io/badge/Kaggle-Competitions-orange?logo=kaggle)](https://www.kaggle.com/franklinemisango/competitions)
+[![Datasets](https://img.shields.io/badge/Kaggle-Datasets-green?logo=kaggle)](https://www.kaggle.com/franklinemisango/datasets)
+[![Notebooks](https://img.shields.io/badge/Kaggle-Notebooks-purple?logo=kaggle)](https://www.kaggle.com/franklinemisango/code)
+
+
+
 ## 𝗢𝗽𝗲𝗻 𝘀𝗼𝘂𝗿𝗰𝗲
 
 <a href="https://feenqr.misango.me/" target="_blank">
@@ -45,37 +76,5 @@
 
 ![GitHub neofetch](https://github-readme-insight-terminal-asci.vercel.app/svg/neofetch?user=FranklineMisango&theme=mac&color=1)
 
-## Public Profiles
-
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://leetcard.jacoblin.cool/FranklineMisango?theme=dark&font=Zen%20Loop">
-        <source media="(prefers-color-scheme: light)" srcset="https://leetcard.jacoblin.cool/FranklineMisango?theme=light&font=Zen%20Loop">
-        <img alt="LeetCode Stats" src="https://leetcard.jacoblin.cool/FranklineMisango?theme=dark&font=Zen%20Loop" width="100%">
-      </picture>
-    </td>
-    <td align="center" width="33%">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-stackoverflow-readme.vercel.app/?userId=17990967&theme=dark">
-        <source media="(prefers-color-scheme: light)" srcset="https://github-stackoverflow-readme.vercel.app/?userId=17990967&theme=light">
-        <img alt="StackOverflow Stats" src="https://github-stackoverflow-readme.vercel.app/?userId=17990967" width="100%">
-      </picture>
-    </td>
-    <td align="center" width="33%">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://hackerrank-stats-card.netlify.app/api/hackerrank-card?username=franklinemisang1&theme=dark">
-        <source media="(prefers-color-scheme: light)" srcset="https://hackerrank-stats-card.netlify.app/api/hackerrank-card?username=franklinemisang1&theme=light">
-        <img alt="HackerRank Stats" src="https://hackerrank-stats-card.netlify.app/api/hackerrank-card?username=franklinemisang1" width="100%">
-      </picture>
-    </td>
-  </tr>
-</table>
-
-[![Competitions](https://img.shields.io/badge/Kaggle-Competitions-orange?logo=kaggle)](https://www.kaggle.com/franklinemisango/competitions)
-[![Datasets](https://img.shields.io/badge/Kaggle-Datasets-green?logo=kaggle)](https://www.kaggle.com/franklinemisango/datasets)
-[![Notebooks](https://img.shields.io/badge/Kaggle-Notebooks-purple?logo=kaggle)](https://www.kaggle.com/franklinemisango/code) 
-
-## Current Vibe
+## 𝗩𝗶𝗯𝗲
 [<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=qiqfq1z9egklhk61szcic2yf5&cover_image=true&theme=apple&show_offline=false&background_color=121212&interchange=false&profanity=false&mode=dark" width="200" />](https://github.com/kittinan/spotify-github-profile)
