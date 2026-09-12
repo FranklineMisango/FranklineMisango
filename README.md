@@ -42,10 +42,7 @@
 
 <img src="chart-year.svg" width="100%"/>
 <img src="chart-month.svg" width="100%"/>
-![GitHub stats](https://github-readme-insight-terminal-asci.vercel.app/svg/stats?user=FranklineMisango&theme=mac)
-![GitHub top languages](https://github-readme-insight-terminal-asci.vercel.app/svg/top-lang?user=FranklineMisango&theme=mac&top=8)
-![GitHub streak](https://github-readme-insight-terminal-asci.vercel.app/svg/streak?user=FranklineMisango&theme=mac)
-![ASCII avatar](https://github-readme-insight-terminal-asci.vercel.app/svg/ascii?user=FranklineMisango&theme=mac&color=1)
+
 ![GitHub neofetch](https://github-readme-insight-terminal-asci.vercel.app/svg/neofetch?user=FranklineMisango&theme=mac&color=1)
 
 ## Public Profiles
