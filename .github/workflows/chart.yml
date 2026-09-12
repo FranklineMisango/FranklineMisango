@@ -1,22 +1,31 @@
-name: snake
+name: github candles
 on:
   schedule:
-    - cron: "0 */12 * * *"   # twice a day
+    - cron: "0 15 * * *"   # daily 00:00 KST — change for your timezone
   workflow_dispatch:
+  push:
+    branches: [main]
 permissions:
   contents: write
 jobs:
-  build:
+  chart:
     runs-on: ubuntu-latest
     steps:
-      - uses: dahan8473/snake-and-commits@v1
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
         with:
-          github_user: ${{ github.repository_owner }}
-          output: dist/snake.svg
-          theme: green
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
+          python-version: "3.12"
+      - name: generate
         env:
-          GITHUB_TOKEN: ${{ github.token }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_USER: ${{ github.repository_owner }}   # zero config
+        run: |
+          MODE=year  OUT=chart-year.svg  python generate_chart.py
+          MODE=month OUT=chart-month.svg python generate_chart.py
+      - name: commit
+        run: |
+          git config user.name "github-candles[bot]"
+          git config user.email "actions@users.noreply.github.com"
+          git add chart-year.svg chart-month.svg
+          git diff --cached --quiet || git commit -m "chart: $(date +%F)"
+          git push
